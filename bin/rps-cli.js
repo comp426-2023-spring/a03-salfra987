@@ -21,7 +21,7 @@ const rules = `Rules for Rock Paper Scissors:
   - Rock CRUSHES Scissors`;
 
 if (args.h || args.help) {
-	console.log(rules);
+	console.log(help_usage);
 	process.exit(0);
 }
 
