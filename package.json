@@ -11,6 +11,7 @@
   },
   "author": "salfra",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "minimist": "^1.2.8"
   }
